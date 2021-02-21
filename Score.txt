@@ -1,0 +1,3 @@
+Pedro,15,Ai tu veio
+Jogador,3,De boas
+Jogador2,5,De boas
